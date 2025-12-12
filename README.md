@@ -46,8 +46,9 @@ tourism_crm/
    ```bash
    python init_db.py
 
-3. Запустите ```bash
-   python app.p
+3. Запустите
+   ```bash
+   python app.py
 
 🚀 Планы по развитию
 [ ] Веб-интерфейс на Flask
